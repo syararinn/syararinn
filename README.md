@@ -18,6 +18,8 @@ It analyzes DJI flight logs and combines flight data with information such as te
 
 The project has grown through repeated testing and improvement based on real drone operations.
 
+![Drone Flight Log application screenshots](./drone-flight-log.png)
+
 🔒 Source code is private.
 
 ⸻
