@@ -1,4 +1,4 @@
-About me
+## About me
 
 I’m a non-engineer developing software with AI-assisted coding tools.
 
@@ -8,9 +8,9 @@ I use AI not only to generate code, but also to explore ideas, design systems, t
 
 Most of my projects are currently private because they are still under development or related to specialized professional workflows.
 
-Selected Projects
+## Selected Projects
 
-🚁 Drone Flight Logbooks
+### 🚁 Drone Flight Logbooks
 
 A drone flight-log analysis and safety review application.
 
@@ -22,9 +22,9 @@ The project has grown through repeated testing and improvement based on real dro
 
 🔒 Source code is private.
 
-⸻
+---
 
-🧭 AI Project Hub
+### 🧭 AI Project Hub
 
 A management hub for organizing and coordinating my AI-assisted software development projects.
 
@@ -34,9 +34,9 @@ I created it as the number of projects increased and it became difficult to keep
 
 🔒 Source code and project information are private.
 
-⸻
+---
 
-📡 drone-monitor
+### 📡 drone-monitor
 
 A monitoring tool for tracking changes in public information related to drone operations and regulations.
 
@@ -46,9 +46,9 @@ The project explores how monitoring and AI-assisted analysis can reduce the effo
 
 🔒 Source code is private.
 
-⸻
+---
 
-🗺️ Disaster Photo Map
+### 🗺️ Disaster Photo Map
 
 A map-based system for organizing and exploring disaster photographs geographically.
 
@@ -58,9 +58,9 @@ The project explores how photographs and geographic information can be connected
 
 🔒 Source code is private.
 
-⸻
+---
 
-📰 News RSS
+### 📰 News RSS
 
 A lightweight project for collecting and viewing news through RSS feeds.
 
@@ -68,7 +68,7 @@ This is one of my public repositories and represents one of the smaller projects
 
 🌐 Public repository available on my GitHub profile.
 
-How I Develop
+## How I Develop
 
 I do not have a traditional software engineering background.
 
@@ -76,16 +76,16 @@ Instead, I combine domain knowledge, problem discovery, experimentation, and AI-
 
 My development process typically involves:
 
-Problem → Research → Design → AI-assisted implementation → Testing → Review → Improvement
+**Problem → Research → Design → AI-assisted implementation → Testing → Review → Improvement**
 
 I’m particularly interested in how people without traditional programming backgrounds can use AI to build useful software based on knowledge and experience from their own fields.
 
-Current Interests
+## Current Interests
 
-* AI-assisted software development
-* Drone operations and flight safety
-* Information monitoring and regulatory change tracking
-* Maps and geospatial information
-* Photography and visual archives
-* Workflow automation
-* Human-AI collaboration in software development
+- AI-assisted software development
+- Drone operations and flight safety
+- Information monitoring and regulatory change tracking
+- Maps and geospatial information
+- Photography and visual archives
+- Workflow automation
+- Human-AI collaboration in software development
