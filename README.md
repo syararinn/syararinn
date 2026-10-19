@@ -32,6 +32,8 @@ It brings together project status, documentation, development workflows, infrast
 
 I created it as the number of projects increased and it became difficult to keep development context organized across different AI tools and repositories.
 
+![AI Project Hub overview](./ai-project-hub.png)
+
 🔒 Source code and project information are private.
 
 ---
